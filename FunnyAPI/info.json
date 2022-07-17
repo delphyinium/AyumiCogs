@@ -1,0 +1,10 @@
+{
+    "author": ["delphinium#0001"],
+    "description": "you disapppoint me",
+    "install_msg": "you're a sick human being",
+    "permissions" : ["send_messages", "embed_links"],
+    "hidden": false,
+    "disabled": false,
+    "short": "gets funny photo",
+    "end_user_data_statement": "This cog does not store user data of any sort"
+}
